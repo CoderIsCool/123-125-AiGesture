@@ -1,0 +1,42 @@
+.differ{
+    font-family: cursive;
+    color: crimson;
+    font-size: 30px;
+    width:100%;
+    margin: 0;
+   box-shadow: 10px 10px 20px plum;
+}
+.note1{
+    color:rgb(94, 50, 7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.bottom{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    background-color: plum;
+    color:darkorchid;
+    font-size:16px;
+    text-align: center;
+    line-height: 3;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+canvas{
+    background-color: lightyellow;
+    border: 3px dotted crimson;
+    border-style: double;
+    box-shadow: 12px 13px 21px orchid;
+    border-radius: 30px;
+}
+body{
+    background-color: paleturquoise;
+}
+video{
+    border-top: 5px dotted gold;
+    border-bottom: 5px dotted gold;
+    border-left: 5px dotted gold;
+    border-right: 5px dotted gold; 
+    box-shadow: 15px 20px 14px rgb(233, 210, 109); 
+
+}
